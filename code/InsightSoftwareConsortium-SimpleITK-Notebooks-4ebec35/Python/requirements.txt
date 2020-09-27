@@ -1,0 +1,9 @@
+SimpleITK>1.2.4
+jupyter
+matplotlib
+ipywidgets
+numpy
+scipy
+pandas
+numba
+multiprocess
